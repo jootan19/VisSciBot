@@ -7,7 +7,7 @@
 [NOTES]
 - My first functional bot and node.js project
 - The code is probably badly written. But at least it works?
-- needs twitter npm to run - to install do: npm install twitter --save
+- needs Node.js and twitter npm to run 
 
 
 
