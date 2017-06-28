@@ -1,0 +1,14 @@
+{
+  "name": "visscibot",
+  "version": "1.0.0",
+  "description": "Twitter Bot ",
+  "main": "bot.js",
+  "scripts": {
+      "concurrently": "concurrently"
+  },
+  "author": "Joo TAN",
+  "license": "ISC",
+  "dependencies": {
+    "twitter": "^1.7.1"
+  }
+}
